@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Si usas estos datos, cítalos así."
+title: "Rutas de transporte público del Cusco (2024)"
+type: dataset
+authors:
+  - family-names: "Contreras Valenzuela"
+    given-names: "Romel Sergio"
+    affiliation: "Universitat de Barcelona"
+license: ODbL-1.0
+date-released: 2026-11-10
+keywords:
+  - transporte público
+  - Cusco
+  - GeoJSON
+  - movilidad urbana
+  - desiertos de transporte

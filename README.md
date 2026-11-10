@@ -51,4 +51,6 @@ Fuentes que deben reconocerse al usar estos datos:
 
 Contreras Valenzuela, R. S. (2026). *Rutas de transporte público del Cusco (2024)* [Conjunto de datos]. Ver `CITATION.cff`.
 
+Autor: Romel Sergio Contreras Valenzuela — ORCID [0000-0002-4703-0018](https://orcid.org/0000-0002-4703-0018)
+
 Este conjunto acompaña el artículo «Desiertos de transporte en el Cusco: desigualdad socioespacial en el acceso al transporte público urbano según estrato de ingreso».
